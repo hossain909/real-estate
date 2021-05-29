@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Poppy House",
+    "location": "Khulshi, Chittagong",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "buildingNo": "201A, Block A",
+    "area": "220000 sqrft",
+    "price": "30000",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXDaHYI0kRFHDKHqKof7T6SbqLepCtMSkzJcSw2K2c9y9SI3vsMxBcf4Z1cRXr6MS9PSM&usqp=CAU",
+    "details": {
+      "status":"For-sale",
+      "baths": 4,
+      "bed": 5
+    }
+  },
+  {
+    "id": "2",
+    "name": "Dreamsville",
+    "location": "Khulshi, Chittagong",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "buildingNo": "201B, Block B",
+    "area": "1500 sqrft",
+    "price": "350000",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4QGCTGxJs2nGOUQ0SttCB9sjXhzM0pKN4z-TJjKh1eBIBdq5UfOhMDswTd0XF5OJIf8&usqp=CAU",
+    "details": {
+      "status":"For-sale",
+      "baths": 4,
+      "bed": 5
+    }
+  },
+  {
+    "id": "3",
+    "name": "Neverland",
+    "location": "Khulshi, Chittagong",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "buildingNo": "201C, Block C",
+    "area": "3000 sqrft",
+    "price": "440000",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDJ5EP8Fx0_92PckG2yh2uLyM840M0eioW9_491VPOIimPXscrDcfd_Mtx13h8Xa5sQE&usqp=CAU",
+    "details": {
+      "status":"For-sale",
+      "baths": 4,
+      "bed": 5
+    }
+  },
+  {
+    "id": "4",
+    "name": "Golden Palace",
+    "location": "Khulshi, Chittagong",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "buildingNo": "201D, Block D",
+    "area": "4500 sqrft",
+    "price": "205000",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI1pilbaEc37QecLfBVdtUr6R-BdtfKgoazAwINXwW0xJQWmNilJFIKs8uzBIIcfjWio&usqp=CAU",
+    "details": {
+      "status":"For-sale",
+      "baths": 4,
+      "bed": 5
+    }
+  }
+]
